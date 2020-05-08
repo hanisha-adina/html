@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>Images</title>
+</head>
+<body>
+<h1>
+<img scr="images/logo.gif"
+     alt="from A to zucchini"/>
+</h1>
+<figure>
+<img scr="images/chocolates-islands.jpg"
+     alt="chocolate islands"
+     title="chocolate islands individual cakes"/>
+<p>
+<figurecaption>
+this recipe for individual chocolate
+cakes is so simple and so delectable!
+</figurecaption>
+</p>
+</figure>
+<h4>more recipes:</h4>
+<p>
+<img src="images/lemon-posset.jpg"
+     alt="lemon posset"
+     title="lemon posset dessert"/>
+<img src="images/roasted-brussel-sprouts.jpg"
+     alt="roasted brussel sprouts"
+     title="roasted brussel sprouts side dish"/>
+<img src="images/zucchini-cake.jpg"
+     alt="zucchini cake"
+     title="zucchini cake no frosting"/>
+</p>
+</body>
+</html>
+
+
+
+
