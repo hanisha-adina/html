@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>lists</title>
+<style type="text/css">
+h1,h2{
+      background-color:blue;
+     }
+ul{
+      list-style-type:square;
+      list-style-position:inside;
+ }
+ol{
+      list-style-type:upper-roman;
+      list-style-position:outside;
+ }
+li{
+       margin:10px 0px 0px 0px;
+  }
+
+</style>
+</head>
+<body>
+<h1>names of the animals</h1>
+<ul>
+<li>tiger</li>
+ <li>lion</li>
+ <li>cat</li>
+ <li>dog</li>
+ <li>deer</li>
+</ul>
+<h2>names of birds</h2>
+<ol>
+ <li>pigeon</li>
+ <li>dove</li>
+ <li>sparrow</li>
+ <li>crow</li>
+ <li>ostrich</li>
+</ol>
+</body>
+</html>
