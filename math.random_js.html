@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>javascript Math.random()</h2>
+<p>returns a number between 0 and 9 :</p>
+<button onclick="document.getElementById("demo").innerHTML=getRndInteger(0,10)">click Me</button>
+<p id="demo"></p>
+<script>
+function getRndInteger(min, max){
+return Math.floor(Math.random(0*(max - min))+ min;
+}
+</script>
+</body>
+</html>
